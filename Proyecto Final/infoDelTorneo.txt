@@ -1,0 +1,94 @@
+10
+Equipo 1:
+Charizard
+Flamethrower
+Dragon Claw
+Earthquake
+Swords Dance
+Venusaur
+Solar Beam
+Sludge Bomb
+Leech Seed
+Synthesis
+Blastoise
+Hydro Pump
+Ice Beam
+Surf
+Protect
+Alakazam
+Psychic
+Shadow Ball
+Calm Mind
+Thunder Wave
+Machamp
+Dynamic Punch
+Cross Chop
+Rock Slide
+Earthquake
+Gengar
+Shadow Ball
+Sludge Bomb
+Thunderbolt
+Hypnosis
+Equipo 2:
+Blastoise
+Hydro Pump
+Ice Beam
+Surf
+Protect
+Gyarados
+Dragon Rage
+Hydro Pump
+Hyper Beam
+Thunder Wave
+Jolteon
+Thunderbolt
+Shadow Ball
+Thunder Wave
+Double Kick
+Machamp
+Dynamic Punch
+Cross Chop
+Rock Slide
+Earthquake
+Aerodactyl
+Hyper Beam
+Rock Slide
+Sky Attack
+Earthquake
+Lapras
+Surf
+Ice Beam
+Thunderbolt
+Sing
+Equipo 3:
+Snorlax
+Hyper Beam
+Earthquake
+Blizzard
+Rest
+Exeggutor
+Solar Beam
+Psychic
+Leech Seed
+Stun Spore
+Tangela
+Solar Beam
+Slam
+Sleep Powder
+Hyper Beam
+Kangaskhan
+Hyper Beam
+Dizzy Punch
+Rock Slide
+Earthquake
+Pidgeot
+Wing Attack
+Quick Attack
+Sky Attack
+Double Edge
+Rhydon
+Earthquake
+Rock Slide
+Hyper Beam
+Surf
